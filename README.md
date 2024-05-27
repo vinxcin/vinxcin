@@ -8,6 +8,6 @@ I work as a Data Engineer, with 3+ years of experience in the field. However, I 
 
 Here in this repository you will find insane and surprising codes, not only from Data Engineering, but other areas as well!
 
-#### 🎓 Formation: Graduated in Systems Analysis and Development from Instituto Federal de São Paulo
-#### 🎯 Skills: Python, SQL, Spark, Docker, Data factory, Data Lake, Databricks, Azure, Typescript, React Js
-#### ⚛️ Learning: Pentaho
+ - 🎓 Formation: Graduated in Systems Analysis and Development from Instituto Federal de São Paulo
+ - 🎯 Skills: Python, SQL, Spark, Docker, Data factory, Data Lake, Databricks, Azure, Typescript, React Js
+ - ⚛️ Learning: Pentaho
