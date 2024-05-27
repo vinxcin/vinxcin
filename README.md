@@ -1,16 +1,13 @@
-## Hi there 👋
+![Group 2 (2)](https://github.com/vinxcin/vinxcin/assets/87454265/b2a0e4a6-d471-43f4-bd06-aadd53a00d86)
+# 🌀 Data Engineer & Front-end Developer
 
-<!--
-**vinxcin/vinxcin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+####
+Hi, what's up? My name is Vinicius, but you can call me Vini 🐝
 
-Here are some ideas to get you started:
+I work as a Data Engineer, with 3+ years of experience in the field. However, I also dabble in Front-end Development whenever needed. I'm passionate about delivering top-notch solutions and always eager to lend a hand to the team, whether it's crafting data pipelines or coding for the front-end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here in this repository you will find insane and surprising codes, not only from Data Engineering, but other areas as well!
+
+🎓 Formation: Graduated in Systems Analysis and Development from Instituto Federal de São Paulo
+🎯 Skills: Python, SQL, Spark, Docker, Data factory, Data Lake, Databricks, Azure, Typescript, React Js
+⚛️ Learning: Pentaho
