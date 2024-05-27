@@ -1,4 +1,5 @@
-![Group 2 (2)](https://github.com/vinxcin/vinxcin/assets/87454265/b2a0e4a6-d471-43f4-bd06-aadd53a00d86)
+![Group 2 (3)](https://github.com/vinxcin/vinxcin/assets/87454265/c38dbbdc-5cf1-4d3a-8168-f092ada46787)
+
 # 🌀 Data Engineer & Front-end Developer
 
 ####
